@@ -1,2 +1,2 @@
 # Front-End-Dev
-lorem epsum webiste , lol
+A practice session with Bootstrap :)
